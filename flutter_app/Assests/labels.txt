@@ -1,0 +1,4 @@
+yawn
+no_yawn
+Closed
+Open
